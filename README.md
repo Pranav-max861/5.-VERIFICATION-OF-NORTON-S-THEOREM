@@ -26,18 +26,36 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
+![WhatsApp Image 2025-12-23 at 08 50 26_63a93858](https://github.com/user-attachments/assets/dd94aa2f-efd8-4519-b21b-f1b33e34c3e2)
+
+
 
 **To measure RTh or RN**
+
+
+![WhatsApp Image 2025-12-23 at 08 51 09_28f43ddc](https://github.com/user-attachments/assets/fff46eea-27bf-46b0-9e24-404b15a88809)
+
+
 
 
 
 **To measure IN or Isc**
 
- 
+
+![WhatsApp Image 2025-12-23 at 08 51 22_9d586ef3](https://github.com/user-attachments/assets/5a8ee089-5100-4e09-9a22-6f3a3f00850b)
+
+
+
 **Thevenin’s equivalent circuit**
+
+![WhatsApp Image 2025-12-23 at 08 51 46_536a2402](https://github.com/user-attachments/assets/c87cd4d4-d1a7-4261-9d0d-f49baff2201e)
+
 
 
 **Norton’s equivalent circuit**
+
+![WhatsApp Image 2025-12-23 at 08 52 10_459debe7](https://github.com/user-attachments/assets/6d6cc6db-e833-40b9-af18-83e6ad10686e)
+
 
 
 **PROCEDURE:**
@@ -70,16 +88,21 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
+
 **TABULAR COLUMN: 1**
 To measure I L
 
 Vi (volts)	IL (amps)
+
+![WhatsApp Image 2025-12-23 at 08 53 09_4df1a0e0](https://github.com/user-attachments/assets/61bcbc2e-e79b-4590-9e05-74311754f84b)
+
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
 
 Vi (volts)	RTh (Ω)
+![WhatsApp Image 2025-12-23 at 08 53 27_4abc1950](https://github.com/user-attachments/assets/df007718-f466-48a7-b9a1-d61b2d184e05)
 
 
 **TABULAR COLUMN:3**
@@ -87,8 +110,15 @@ Vi (volts)	RTh (Ω)
 To measure IN or Isc
 
 Vi (volts)	IN (amps)
+
+![WhatsApp Image 2025-12-23 at 08 53 44_83b62480](https://github.com/user-attachments/assets/cb365786-f6cf-44af-986c-8a60437f5641)
 	
-**MODEL CALCULATION:**
+**CALCULATION:**
+
+![WhatsApp Image 2025-12-23 at 08 54 02_9b0df260](https://github.com/user-attachments/assets/010857d8-cc38-4a32-a5d5-aa8e4ad52d7e)
+![WhatsApp Image 2025-12-23 at 08 54 27_afb816b6](https://github.com/user-attachments/assets/e996d759-6097-42f5-8d07-b32d041e7a18)
+
+
 
 Practical value of IL (from tabulation 1) =2.3mA
 
@@ -98,6 +128,9 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
+**MARK SPLIT UP**
+
+![WhatsApp Image 2025-12-23 at 08 54 53_693dfd4e](https://github.com/user-attachments/assets/fd50f1f8-ede0-4833-8009-9b71c1e915b6)
 
 
 **RESULT:**
