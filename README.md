@@ -1,5 +1,7 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
+PRANAV K (212225060204)
+
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
